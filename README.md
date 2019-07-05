@@ -6,7 +6,7 @@ Coming Soon: Be able to edit, add, and delete tasks as needed.
 
 ## Features:
 
-Visit the [deployed homepage](https://master.d14g9ef0hd7bcb.amplifyapp.com/) to see a list of all tasks currently in the database. 
+Visit the [deployed homepage](http://taskmaster-fe-bucket.s3-website.us-east-2.amazonaws.com/) to see a list of all tasks currently in the database. 
 
 ## Screenshot: 
 
